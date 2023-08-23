@@ -1,0 +1,9 @@
+Bài tập 1:
+Nhập vào số quả táo và in ra bằng tiếng Anh số quả táo vừa nhập.
+
+# Gợi ý: dùng hàm if và định dạng số ít không có "s" sau "apple" và ngượ
+
+Bài tập 2: 
+Nhập vào một số tiền bằng đồng đô-la sau đó xuất ra số tiền theo tiền đồng của việt nam.
+
+1$ = 23,800.00 đ
