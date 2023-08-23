@@ -1,0 +1,6 @@
+cat: to show the file's content
+nano:to edit the file's content
+ls: to list folder's content; you can also use ls -l and ls -la
+------------------
+rm: to remove a file
+rm -rf: to remove a folder
